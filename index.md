@@ -1,3 +1,6 @@
+<a rel="me" href="https://infosec.exchange/@costa"></a>
+<a rel="me" href="https://ioc.exchange/@co5ta"></a> 
+
 ---
 layout: default
 ---
