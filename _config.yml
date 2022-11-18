@@ -1,5 +1,5 @@
-title: Costa's Corner
-description: The small corner of the web
-show_downloads: false
-google_analytics: 
-theme: jekyll-theme-architect
+title: Cayman theme
+description: Cayman is a clean, responsive theme for GitHub Pages.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-cayman
