@@ -1,5 +1,5 @@
 title: Costa
 description: Small corner of the web.
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
